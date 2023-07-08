@@ -360,7 +360,7 @@ header .buttons button{
 
 .heading span{
     text-transform: uppercase; 
-    color: var(--black-color);     
+    color: var(green);     
 }
 
 /* menu section end */
